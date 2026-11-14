@@ -1,16 +1,41 @@
-## Hi there 👋
+# Any-Arlene Niyubahwe
 
-<!--
-**anyarlene/anyarlene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Engineer with an analytics background.
 
-Here are some ideas to get you started:
+I turn complex information into reliable data systems people can trust — pipelines, models, and platforms behind the insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I focus on simple, tested data solutions that make reliable data available and ship.
+
+---
+
+## What I do
+
+- Build and operate data pipelines and platforms (SQL, Python, GCP, dbt, Apache Airflow)
+- Model data for analytics and improve data quality end to end
+- Automate delivery with CI/CD, Docker, Terraform, and Kubernetes
+- Support downstream reporting with Power BI and Tableau when needed
+
+---
+
+## What interests me right now
+
+Data Engineer and Analytics Engineer roles — especially in ClimateTech, renewable energy, or HealthTech.
+
+---
+
+## Working with me
+
+I help teams:
+
+- move from ad-hoc analysis to reliable, owned pipelines
+- combine analytics with engineering delivery
+- ship data platforms people can trust
+
+Open to permanent and fixed-term Data Engineer / Analytics Engineer roles.
+
+---
+
+## Contact
+
+anyarlene(dot)niyubahwe(at)gmail.com  
+[LinkedIn](https://linkedin.com/in/a-niyubahwe) 
