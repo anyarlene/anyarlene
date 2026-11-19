@@ -19,7 +19,7 @@ I focus on simple, tested data solutions that make reliable data available and s
 
 ## What interests me right now
 
-Data Engineer and Analytics Engineer roles — especially in ClimateTech, renewable energy, or HealthTech.
+Data Engineer and Analytics Engineer roles — especially in ClimateTech, renewable energy.
 
 ---
 
