@@ -10,9 +10,9 @@ I focus on simple, tested data solutions that make reliable data available and s
 
 ## What I do
 
-- Build and operate data pipelines and platforms (SQL, Python, GCP, dbt, Apache Airflow)
+- Build and operate data pipelines and platforms (SQL, Python, GCP, dbt, Airflow)
 - Model data for analytics and improve data quality end to end
-- Automate delivery with CI/CD, Docker, Terraform, and Kubernetes
+- Automate delivery with CI/CD, Docker, and Terraform
 - Support downstream reporting with Power BI and Tableau when needed
 
 ---
