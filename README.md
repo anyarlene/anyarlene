@@ -4,7 +4,7 @@ Data Engineer with an analytics background.
 
 I turn complex information into reliable data systems people can trust — pipelines, models, and platforms behind the insights.
 
-I focus on simple, tested data solutions that make reliable data available and ship.
+I focus on simple, tested data solutions that make reliable data available.
 
 ---
 
