@@ -19,7 +19,7 @@ I focus on simple, tested data solutions that make reliable data available.
 
 ## What interests me right now
 
-Data Engineer and Analytics Engineer roles, ideally in ClimateTech, renewable energy or FinTech.
+Data Engineer roles, ideally in ClimateTech, renewable energy or FinTech.
 
 ---
 
@@ -31,7 +31,7 @@ I help teams:
 - combine analytics with engineering delivery
 - ship data platforms people can trust
 
-Open to permanent and fixed-term Data Engineer / Analytics Engineer roles.
+Open to permanent and fixed-term Data Engineer roles.
 
 ---
 
